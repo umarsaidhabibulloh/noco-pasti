@@ -2,9 +2,7 @@
 
 ## Clone & install
 ```
-git clone https://github.com/nocodb/nocodb-seed
-
-cd nocodb-seed 
+git clone [https://github.com/nocodb/nocodb-seed](https://github.com/umarsaidhabibulloh/noco-pasti.git)
 
 npm install
 ```
